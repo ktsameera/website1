@@ -58,6 +58,7 @@
     height: 380px;
     vertical-align: middle;
     padding-left: 50px;
+    box-shadow:1px 2px 5px rgb(28, 32, 39);
 }
 .inputbox
 { 
@@ -70,23 +71,22 @@
     color: #1d2129;
     vertical-align: middle;
     padding-top: 10px;
-    padding-left: 0px;
+    padding-left: 5px;
 }
 .loginbutton
 {
     border-radius: 6px;
     color: #dddfe2;
     background-color: #1877f2;
-    width: 300px;
+    width: 310px;
     height:45px;
     border: 1px solid #dddfe2;
     color: #1d2129;
     vertical-align: middle;
     padding-top: 10px;
-    padding-left: 0px;
     font-size: 20px;
     line-height: 48px;
-    padding: 0 16px;
+    padding: 0 10px;
    
 }
 .logintext
@@ -110,7 +110,6 @@
 {
     align-items: center;
     border-bottom: 1px solid #dadde1;
-    display: flex;
     margin: 20px 16px;
     text-align: center;
     padding-left: 65px;
@@ -120,10 +119,9 @@
     border-radius: 6px;
     color: #dddfe2;
     background-color: #42b72a;
-    width: 210px;
+    width: 280px;
     height:50px;
     border: 1px solid #dddfe2;
-    color: #1d2129;
     font-size: 16px;
     line-height: 48px;
     padding-left:2px;
@@ -140,6 +138,7 @@
 .td3
 {
     vertical-align: middle;
+ 
 }
 
 .celebtext
